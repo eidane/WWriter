@@ -10,6 +10,8 @@ Sharing documents and adding administrating user rights.
 Link sharing giving different access.
 
 This to give access to have your own private doc instead of needing to use some thing like google, safe and anonymous and anywere easly saving your data to the cloud. 
-
+use of django for core backend framework, node.js for session backend, react as the frontend js framework.
+languages will be python,js,html,xml.
+database is to be used mongodb or psql.
 
 Copyright Eivind Dyrlie 2020
